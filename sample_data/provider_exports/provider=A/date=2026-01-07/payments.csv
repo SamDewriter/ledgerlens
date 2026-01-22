@@ -1,0 +1,4 @@
+txn_id,status,amount,currency,created_at,order_id,email,phone
+tx_1,SUCCESS,"₦10,000",NGN,2026-01-07T13:02:30Z,o_100,u1@example.com,234800000001
+tx_2,FAILED,1000,NGN,2026-01-07T13:05:10Z,o_100,u1@example.com,234800000001
+tx_3,successful,2500,NGN,2026-01-07T14:01:40Z,,u2@example.com,234800000002

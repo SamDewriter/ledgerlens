@@ -1,0 +1,9 @@
+{"id":"pb_1","state":"paid","value":"$10.00","currency":"USD","ts":"2026-01-07T14:01:45Z","meta":{"order":"o_101","customer":{"email":"u2@example.com","phone":"234800000002"}}}
+{"id":"pb_2","state":"declined","value":"1000","currency":"NGN","ts":"2026-01-07T14:02:10Z","meta":{"order":"","customer":{"email":"u3@example.com","phone":"234800000003"}}}
+
+1,000
+1,000.50
+"$1,000"
+
+"1,000 USD"
+"1000"

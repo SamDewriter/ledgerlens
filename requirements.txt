@@ -1,0 +1,9 @@
+pandas
+apache-airflow
+apache-airflow-providers-google
+
+python-dotenv
+pyarrow
+
+google-cloud-bigquery
+google-cloud-storage

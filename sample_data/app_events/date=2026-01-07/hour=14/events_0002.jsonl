@@ -1,0 +1,2 @@
+{"event_id":"e3","event_name":"purchase_completed","user_id":"u_1","session_id":"s_1","order_id":"o_100","payment_intent_id":"pi_1001","timestamp":"2026-01-07T14:00:01Z","country":"NG","device":"android","utm":{"source":"google","medium":"cpc","campaign":"jan_push"}}
+{"event_id":"e4","event_name":"checkout_started","user_id":"u_2","session_id":"s_2","order_id":"o_101","payment_intent_id":"pi_1002","timestamp":"2026-01-07T14:01:01+00:00","country":"GH","device":"web","utm":{"source":"newsletter","medium":"email","campaign":"new_users"}}
