@@ -23,6 +23,7 @@ def load_df_to_table(
     job.result()
 
 
+
 def ensure_dataset(client: bigquery.Client, dataset_id: str, location: str = "US") -> None:
     ds = bigquery.Dataset(dataset_id)
     ds.location = location
